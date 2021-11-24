@@ -58,7 +58,7 @@
   
   - Udacity - Estatística básica
 
-  ##
+ ##
 
  ####    2) Data Wrangling
   - Coleta
@@ -71,19 +71,19 @@
   - Power Query
   - Power BI
   
-  ##
+##
   
- ####    3) Data Viz
+####    3) Data Viz
   - Google Data Studio
   - Excel
   - Power BI
   - Tableau
  
-    ####  📍      DICA DE LIVRO
+ ####  📍      DICA DE LIVRO
   
   - Storytelling com dados
   
-  ##
+ ##
   
  ####    4) Ferramentas
   - Excel Avançado/Sheets
