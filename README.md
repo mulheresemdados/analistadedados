@@ -6,6 +6,7 @@
   - Ser curiosa
   - Gostar de estudar
   - Estar disposto a estudar no mínimo 1 hora por dia
+  - Dica: Escolha sua trilha, seus cursos e siga nessa jornada. Não comece novos cursos sem parar, comece a terminar o que os iniciou :)
   
 ##
  
