@@ -25,8 +25,11 @@
 ####  📍      DICA DE CONTEÚDO
    - Data Science para Negócios
    - Podcast Data Hackers 
+  
+  ####  📍      DICA DE CURSOS
    - Udacity - Business Analytics 
    - DSA - Business Analytics
+  -  UDEMY - O que é Business Intelligence? Teoria sem mistérios! por Felipe Mafra 
   
 ####    0.2) Inglês
   - Precisa saber o básico
@@ -58,6 +61,7 @@
  ####  📍      DICA DE CURSO 
   
   - Udacity - Estatística básica
+  - Udemy - Estatística I (para leigos): aprenda fácil e rápido!
 
  ##
 
@@ -80,6 +84,12 @@
   - Power BI
   - Tableau
  
+  ####  📍      DICA DE CURSOS
+  
+  - DSA: POWER BI
+  - Power BI com Leonardo Karpinski (site e youtube)
+  - Power bi com Karine Lago (youtube)
+  
  ####  📍      DICA DE LIVRO
   
   - Storytelling com dados
