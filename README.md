@@ -23,7 +23,7 @@
   - Gestão de negócios
 
 ####  📍      DICA DE CONTEÚDO
-   - Data Science para Negócios
+   - Data Science para Negócios : https://amzn.to/3FLpI3c
    - Podcast Data Hackers 
   
   ####  📍      DICA DE CURSOS
@@ -92,7 +92,7 @@
   
  ####  📍      DICA DE LIVRO
   
-  - Storytelling com dados
+  - Storytelling com dados : https://amzn.to/3nHlu6k
   
  ##
   
