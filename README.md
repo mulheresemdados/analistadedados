@@ -1,113 +1,103 @@
 # ✨ Trilha de Estudos para Analista de Dados ✨
+###### com indicações de cursos gratuitos :)
+# Premissas
 
-  <div>
-  
-####    PREMISSAS
-  - Ser curiosa
-  - Gostar de estudar
-  - Estar disposto a estudar no mínimo 1 hora por dia
-  - Dica: Escolha sua trilha, seus cursos e siga nessa jornada. Não comece novos cursos sem parar, comece a terminar o que os iniciou :)
-  
-##
+> Para ser Analista de Dados, é fundamental gostar de estudar, pois é uma área extremamente dinâmica em que não existe um “ponto final” na aquisição de conhecimento (o tal do life long learning). Também é essencial ter curiosidade e autodidatismo - o dia a dia envolve muito erro e acerto. A maior parte das vezes você vai precisar pesquisar na internet como resolver seu problema. Nesse ponto vale reforçar que o inglês é essencial para achar o conteúdo que precisa.
  
-####    0.0) Ecossistema de Dados
-  - ON e OFF
-  - BI 
-  - De onde vem os dados
-  
-####    0.1) Negócios
-  - Aprender sobre o negócio
-  - Curiosidade 
-  - Driven
-  - Ideia básica de negócios
-  - Gestão de negócios
 
-####  📍      DICA DE CONTEÚDO
-   - Data Science para Negócios : https://amzn.to/3FLpI3c
-   - Podcast Data Hackers 
-  
-  ####  📍      DICA DE CURSOS
-   - Udacity - Business Analytics 
-   - DSA - Business Analytics
-  -  UDEMY - O que é Business Intelligence? Teoria sem mistérios! por Felipe Mafra 
-  
-####    0.2) Inglês
-  - Precisa saber o básico
+# Por onde começar?
 
-####    0.3) Soft Skills
-  - Saber se vender
-  - Comunicação
-  - Empatia
-  - Habilidades de fazer pontes, trabalhar cross
-  - Coordenação de projeto
-  - Técnicas de aprendizado - saber aprender
-  - Organização
-  - Foco
-  - Life long learning - Aprender a aprender → Curiosidade 
+## 1. Contextualize-se
 
- ####  📍      DICA DE CURSOS
-   - Iniciante - Alura (pra quem tá começando é bom)
-  - Comunidade Data Science - Meigaron
+Antes de entrar nas ferramentas técnicas, estude a base teórica.
 
-##
+- O que são dados? Quais são suas fontes? O que define análise de dados?
+- O que é business intelligence?
+- Quais são os diferentes escopos na área de Dados?
+- O que é o negócio e como se relaciona com a área de Dados? Quais são os principais modelos de negócio?
+- O que é LGPD?
+
+**Conecte-se com o ecossistema**: faça parte de comunidades, escute podcasts, veja vídeos, leia livros da área, assine newsletters e siga pessoas da área no Linkedin.
+
+### Recursos
+
+### Comunidades
+
+- [Mulheres em Dados](https://linktr.ee/mulheresemdados)
+- [Data Hackers](https://www.datahackers.com.br/slack/)
+
+### Podcasts
+
+- [Mulheres em Dados](https://open.spotify.com/show/2ZXUlfTOHGkmO4hBw4JaHG?si=ecf7c5707dea468a)
+- [Data Hackers](https://open.spotify.com/show/1oMIHOXsrLFENAeM743g93?si=5f92c2a8a6874038)
+- [Let’s Data](https://open.spotify.com/show/0VsNN95jsJVRS424eCFDlg)
+
+Veja mais podcasts [aqui](https://github.com/DataTalksClub/awesome-data-podcasts)
+
+### Canais Youtube
+
+- [Alex The Analyst](https://www.youtube.com/@AlexTheAnalyst)
+- [Mulheres em Dados](https://www.youtube.com/@MulheresemDados)
+
+### Livros
+
+- [Business Intelligence e Análise de Dados para Gestão do Negócio](https://a.co/d/0xzTblq)
+
+### Newsletter
+
+- [Filipe Deschamps](https://filipedeschamps.com.br/newsletter)
+- [Data Hackers](https://www.datahackers.com.br/newsletter)
+- [TLDR](https://tldr.tech/signup?utm_source=tldr)
+
+
+## 2. Aprenda as técnicas
+### Excel
+- Youtube: [Leila Gharani](https://www.youtube.com/@LeilaGharani)
+- Youtube: [DataB](https://www.youtube.com/@KarineLago)
  
-####    1) Estatística
-  - Básica: Média, mediana, moda, quartil 
-  - Teste de hipótese 
-  - Distribuição e Normal
-  - Excel
-  - Análise exploratória de dados
+### SQL
+- Udacity: [SQL for Data Analysis](https://www.udacity.com/course/sql-for-data-analysis--ud198)
+- FreeCodeCamp: [Relational Database](https://www.freecodecamp.org/learn/relational-database/)
+- Youtube: [Programação Dinâmica](https://youtube.com/playlist?list=PL5TJqBvpXQv5n1N15kcK1m9oKJm_cv-m6)
+- Livro: [Introdução à Linguagem SQL: Abordagem Prática Para Iniciantes](https://a.co/d/8lCJkMc)
+- Livro: [SQL Para Análise de Dados: Técnicas Avançadas Para Transformar Dados em Insights](https://a.co/d/fDp9qz7)
+- Pratique: [HackerRank](https://www.hackerrank.com/domains/sql)
+- Pratique: [Mode](https://mode.com/sql-tutorial/)
+- Pratique: [DataLemur](https://datalemur.com/questions)
 
- ####  📍      DICA DE CURSO 
-  
-  - Udacity - Estatística básica
-  - Udemy - Estatística I (para leigos): aprenda fácil e rápido!
+### Estatística
+> Média, Mediana, Moda, Quartil, Teste de Hipótese, Distribuição e Normal.
 
- ##
+- Udacity: [Statistics](https://www.udacity.com/course/statistics--st095)
 
- ####    2) Data Wrangling
-  - Coleta
-  - Limpeza
-  - Transformação
+### Data Viz
+> PowerBI, Tableau e/ou Google Looker.
 
-  ####  📍      CURSOS
-  
-  - SQL
-  - Power Query
-  - Power BI
-  
-##
-  
-####    3) Data Viz
-  - Google Data Studio
-  - Excel
-  - Power BI
-  - Tableau
- 
-  ####  📍      DICA DE CURSOS
-  
-  - DSA: POWER BI
-  - Power BI com Leonardo Karpinski (site e youtube)
-  - Power bi com Karine Lago (youtube)
-  
- ####  📍      DICA DE LIVRO
-  
-  - Storytelling com dados : https://amzn.to/3nHlu6k
-  
- ##
-  
- ####    4) Ferramentas
-  - Excel Avançado/Sheets
-  - Data Viz (Google Data Studio/Power BI)
-  - SQL básico
- 
- ##
-  
-####    5) Extras
-  - R (estatística)
-  - Python (pandas)
-  - Metodologias Ágeis
- 
- </div>
+- Data Science Academy: [Microsoft Power BI Para Business Intelligence e Data Science](https://www.datascienceacademy.com.br/course/microsoft-power-bi-para-business-intelligence-e-data-science)
+- Youtube: [Leonardo - Power BI Experience](https://www.youtube.com/@pbiexperience)
+- Livro: [Storytelling com dados: Um guia sobre visualização de dados para profissionais de negócios](https://a.co/d/ikJAkBr)
 
+### Python
+- FreeCodeCamp: [Data Analysis with Python](https://www.freecodecamp.org/learn/data-analysis-with-python/)
+- FreeCodeCamp: [Scientific Computing with Python](https://www.freecodecamp.org/learn/scientific-computing-with-python/)
+- Data Science Academy: [Fundamentos de Linguagem Python Para Análise de Dados e Data Science](https://www.datascienceacademy.com.br/course/fundamentos-de-linguagem-python-para-analise-de-dados-e-data-science)
+- Kaggle: [Pandas](https://www.kaggle.com/learn/pandas)
+- Kaggle: [Python](https://www.kaggle.com/learn/python)
+
+## 3. Pratique!
+Em resumo, você precisa aprender as habilidades de:
+- **Determinar a pergunta principal**: Reconhecer o objetivo geral da análise de dados ajuda a definir o palco para os dados de que você precisa e o que o resultado da análise deve revelar. 
+- **Coleta de dados**: Nem sempre os dados vão chegar prontos por um Engenheiro de Dados. É importante entender a pipeline dos dados.  
+- **Limpeza de dados**: Transformar os dados brutos em algo que você possa analisar através do processo de limpeza de dados. Isso envolve corrigir ou remover dados incorretos ou irrelevantes, verificar a completude de dados, remover duplicatas ou produzir valores importantes, como médias.
+- **Análise de dados**: Analisar os dados que você limpou envolve procurar insights dentro dos dados, incluindo padrões, relacionamentos e a possibilidade de previsões.
+- **Interpretação**: Produzir visualizações dos resultados da sua análise de dados. Essas visualizações contarão a história dos seus dados e responderão à pergunta de uma forma fácil de compreender e direta ao ponto.
+
+**A melhor forma de praticar é através da criação de portfólios**
+- Aprenda a editar seu GitHub com [Rafaella Ballerini](https://youtu.be/UBAX-13g8OM)
+- Compartilhe seu aprendizado no GitHub, Linkedin ou Medium
+
+### Base de dados
+- [Kaggle](https://www.kaggle.com/competitions)
+- [Base de Dados do Governo](https://basedosdados.org/)
+- [The Forage](https://www.theforage.com/course-catalog)
 
