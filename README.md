@@ -31,6 +31,7 @@ Antes de entrar nas ferramentas técnicas, estude a base teórica.
 - [Mulheres em Dados](https://open.spotify.com/show/2ZXUlfTOHGkmO4hBw4JaHG?si=ecf7c5707dea468a)
 - [Data Hackers](https://open.spotify.com/show/1oMIHOXsrLFENAeM743g93?si=5f92c2a8a6874038)
 - [Let’s Data](https://open.spotify.com/show/0VsNN95jsJVRS424eCFDlg)
+- [Data Talks](https://open.spotify.com/show/5fqLLr5q3qmAaZL6mGaXpE?si=bcafa15403e64999)
 - [Analytics Talks](https://open.spotify.com/show/4qP97l3OJO9vH37fWhrbB7?si=eae4f572e96b4521)
 
 Veja mais podcasts [aqui](https://github.com/DataTalksClub/awesome-data-podcasts)
@@ -66,7 +67,7 @@ Veja mais podcasts [aqui](https://github.com/DataTalksClub/awesome-data-podcasts
 - Youtube: [Programação Dinâmica](https://youtube.com/playlist?list=PL5TJqBvpXQv5n1N15kcK1m9oKJm_cv-m6)
 - Livro: [Introdução à Linguagem SQL: Abordagem Prática Para Iniciantes](https://a.co/d/8lCJkMc)
 - Livro: [SQL Para Análise de Dados: Técnicas Avançadas Para Transformar Dados em Insights](https://a.co/d/fDp9qz7)
-- Pratique: [HackerRank](https://www.hackerrank.com/domains/sql)
+- Pratique: [HackerRank](https://www.hackerrank.com/)
 - Pratique: [Mode](https://mode.com/sql-tutorial/)
 - Pratique: [DataLemur](https://datalemur.com/questions)
 
