@@ -31,6 +31,7 @@ Antes de entrar nas ferramentas técnicas, estude a base teórica.
 - [Mulheres em Dados](https://open.spotify.com/show/2ZXUlfTOHGkmO4hBw4JaHG?si=ecf7c5707dea468a)
 - [Data Hackers](https://open.spotify.com/show/1oMIHOXsrLFENAeM743g93?si=5f92c2a8a6874038)
 - [Let’s Data](https://open.spotify.com/show/0VsNN95jsJVRS424eCFDlg)
+- [Analytics Talks](https://open.spotify.com/show/4qP97l3OJO9vH37fWhrbB7?si=eae4f572e96b4521)
 
 Veja mais podcasts [aqui](https://github.com/DataTalksClub/awesome-data-podcasts)
 
@@ -51,9 +52,13 @@ Veja mais podcasts [aqui](https://github.com/DataTalksClub/awesome-data-podcasts
 
 
 ## 2. Aprenda as técnicas
+### Negócio
+>Aprenda a calcular as principais métricas de negócio. Como ROI, Payback, % Crescimento, Market Share...
+
 ### Excel
-- Youtube: [Leila Gharani](https://www.youtube.com/@LeilaGharani)
 - Youtube: [DataB](https://www.youtube.com/@KarineLago)
+- Youtube: [Leila Gharani](https://www.youtube.com/@LeilaGharani)
+- Youtube: [Ninja do Excel](https://www.youtube.com/channel/UChTLNqbdIMNny_vCqn6e-iA)
  
 ### SQL
 - Udacity: [SQL for Data Analysis](https://www.udacity.com/course/sql-for-data-analysis--ud198)
@@ -69,9 +74,12 @@ Veja mais podcasts [aqui](https://github.com/DataTalksClub/awesome-data-podcasts
 > Média, Mediana, Moda, Quartil, Teste de Hipótese, Distribuição e Normal.
 
 - Udacity: [Statistics](https://www.udacity.com/course/statistics--st095)
+- Curso EBA: [Estatística do Básico ao Avançado - Renata Biaggi](https://www.renatabiaggi.com/)
+- Livro: [Estatística: O que é, para que serve, como funciona](https://a.co/d/j1tvSgd)
+- Livro: [Como mentir com estatística ](https://a.co/d/gVyPB6o)
 
 ### Data Viz
-> PowerBI, Tableau e/ou Google Looker.
+> PowerBI, Tableau, Metabase e/ou Google Looker.
 
 - Data Science Academy: [Microsoft Power BI Para Business Intelligence e Data Science](https://www.datascienceacademy.com.br/course/microsoft-power-bi-para-business-intelligence-e-data-science)
 - Youtube: [Leonardo - Power BI Experience](https://www.youtube.com/@pbiexperience)
@@ -83,6 +91,9 @@ Veja mais podcasts [aqui](https://github.com/DataTalksClub/awesome-data-podcasts
 - Data Science Academy: [Fundamentos de Linguagem Python Para Análise de Dados e Data Science](https://www.datascienceacademy.com.br/course/fundamentos-de-linguagem-python-para-analise-de-dados-e-data-science)
 - Kaggle: [Pandas](https://www.kaggle.com/learn/pandas)
 - Kaggle: [Python](https://www.kaggle.com/learn/python)
+
+### Extras
+- Artigo Certificação DA-100 Microsoft: [Exame DA-100: Analyzing Data with Microsoft Power BI](https://medium.com/@myharaujo20/exame-da-100-analyzing-data-with-microsoft-power-bi-2ffa5bedd187)
 
 ## 3. Pratique!
 Em resumo, você precisa aprender as habilidades de:
@@ -96,7 +107,7 @@ Em resumo, você precisa aprender as habilidades de:
 - Aprenda a editar seu GitHub com [Rafaella Ballerini](https://youtu.be/UBAX-13g8OM)
 - Compartilhe seu aprendizado no GitHub, Linkedin ou Medium
 
-### Base de dados
+#### Base de dados para projetos
 - [Kaggle](https://www.kaggle.com/competitions)
 - [Base de Dados do Governo](https://basedosdados.org/)
 - [The Forage](https://www.theforage.com/course-catalog)
