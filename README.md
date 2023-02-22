@@ -19,7 +19,7 @@ Antes de entrar nas ferramentas técnicas, estude a base teórica.
 
 **Conecte-se com o ecossistema**: faça parte de comunidades, escute podcasts, veja vídeos, leia livros da área, assine newsletters e siga pessoas da área no Linkedin.
 
-### Recursos
+## Recursos
 
 ### Comunidades
 
@@ -84,6 +84,7 @@ Veja mais podcasts [aqui](https://github.com/DataTalksClub/awesome-data-podcasts
 
 - Data Science Academy: [Microsoft Power BI Para Business Intelligence e Data Science](https://www.datascienceacademy.com.br/course/microsoft-power-bi-para-business-intelligence-e-data-science)
 - Youtube: [Leonardo - Power BI Experience](https://www.youtube.com/@pbiexperience)
+- Youtube: [MeD - Desafio PowerBI: Introdução a Análise de Dados](https://youtube.com/playlist?list=PLlZD0H2fvLSO12C7oMjnJ0YK8e8aak1Mc)
 - Livro: [Storytelling com dados: Um guia sobre visualização de dados para profissionais de negócios](https://a.co/d/ikJAkBr)
 
 ### Python
@@ -94,7 +95,7 @@ Veja mais podcasts [aqui](https://github.com/DataTalksClub/awesome-data-podcasts
 - Kaggle: [Python](https://www.kaggle.com/learn/python)
 
 ### Extras
-- Artigo Certificação DA-100 Microsoft: [Exame DA-100: Analyzing Data with Microsoft Power BI](https://medium.com/@myharaujo20/exame-da-100-analyzing-data-with-microsoft-power-bi-2ffa5bedd187)
+- Artigo Certificação DA-100/PL-300 Microsoft: [Exame DA-100/PL-300: Analyzing Data with Microsoft Power BI](https://medium.com/@myharaujo20/exame-da-100-analyzing-data-with-microsoft-power-bi-2ffa5bedd187)
 
 ## 3. Pratique!
 Em resumo, você precisa aprender as habilidades de:
